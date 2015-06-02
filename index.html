@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html ng-app="gemStore">
+<head>
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+  <style type="text/css">
+  .ng-invalid.ng-dirty{
+    border-color:#FA787E;
+  }
+  .ng-valid.ng-dirty{
+    border-color:#78FA89;
+  }
+  </style>
+</head>
+<body class="list-group" ng-controller="StoreController as store">
+    <!--  Product Container  -->
+    <div class="list-group-item" ng-repeat="product in store.products">
+      <h3 product-title></h3>
+
+      <!-- Image Gallery  -->
+      <product-gallery ng-show="product.images.length"></product-gallery>
+      <product-panels></product-panels>
+
+
+    </div>
+    <script type="text/javascript" src='js/angular.min.js'></script>
+	 <script type="text/javascript" src='js/app.js'></script>
+   <script type="text/javascript" src='js/product.js'></script>
+</body>
+</html>

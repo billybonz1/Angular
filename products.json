@@ -1,0 +1,86 @@
+[
+    {
+      "name": "Azurite",
+      "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+      "shine": "8",
+      "price": "110.50",
+      "rarity": "7",
+      "color": "#CCC",
+      "faces": "14",
+      "images": [
+        "dodecahedron-01-full.png",
+        "bloodstone.jpg",
+        "dodecahedron-01-full.png"
+      ],
+      "reviews":[
+        {
+          "stars": "4",
+          "body": "It's so cool",
+          "author": "joe@thomas.com",
+          "createdOn": "1288323623006"
+        },
+        {
+          "stars": "2",
+          "body": "It's so cool",
+          "author": "joe@thomas.com",
+          "createdOn": "1288323623006"
+        }
+      ]
+    },
+    {
+      "name": "Azurite",
+      "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+      "shine": "8",
+      "price": "110.50",
+      "rarity": "7",
+      "color": "#CCC",
+      "faces": "14",
+      "images": [
+        "dodecahedron-01-full.png",
+        "bloodstone.jpg",
+        "dodecahedron-01-full.png"
+      ],
+      "reviews":[
+        {
+          "stars": "4",
+          "body": "It's so cool",
+          "author": "joe@thomas.com",
+          "createdOn": "1288323623006"
+        },
+        {
+          "stars": "2",
+          "body": "It's so cool",
+          "author": "joe@thomas.com",
+          "createdOn": "1288323623006"
+        }
+      ]
+    },
+    {
+      "name": "Azurite",
+      "description": "Some gems have hidden qualities beyond their luster, beyond their shine... Azurite is one of those gems.",
+      "shine": "8",
+      "price": "110.50",
+      "rarity": "7",
+      "color": "#CCC",
+      "faces": "14",
+      "images": [
+        "dodecahedron-01-full.png",
+        "bloodstone.jpg",
+        "dodecahedron-01-full.png"
+      ],
+      "reviews":[
+        {
+          "stars": "4",
+          "body": "It's so cool",
+          "author": "joe@thomas.com",
+          "createdOn": "1288323623006"
+        },
+        {
+          "stars": "2",
+          "body": "It's so cool",
+          "author": "joe@thomas.com",
+          "createdOn": "1288323623006"
+        }
+      ]
+    }
+]
